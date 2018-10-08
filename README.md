@@ -3,11 +3,11 @@ inception-v3 used deep-run image analysis
 
 materials
 
-python (latest version)
-tensorflow (latest version)
-scikit-learn
-numpy
-matplotlib
+- python (latest version)
+- tensorflow (latest version)
+- scikit-learn
+- numpy
+- matplotlib
 
 1. Prepare n input images as input
 
