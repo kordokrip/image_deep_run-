@@ -16,6 +16,13 @@ materials
 - scikit-learn
 - numpy
 - matplotlib
+- Inception v3 model
+
+# download the Inception v3 model
+curl -O http://download.tensorflow.org/models/image/imagenet/inception-v3-2016-03-01.tar.gz
+tar xzf inception-v3-2016-03-01.tar.gz
+
+
 
 ** I did programming in Anaconda Spyder (python 3.6).
 
@@ -32,3 +39,19 @@ materials
 5. Find the class with the highest number of armax
 
 
+
+
+
+Files to Import 
+-----------------------------------------------------------------------------------------------------------------------------------
+
+import tensorflow as tf
+import numpy as np
+
+from inception.data import build_image_data
+from inception import image_processing
+from inception import inception_model as inception
+from os import listdir
+from os.path import isfile, join
+
+-----------------------------------------------------------------------------------------------------------------------------------
