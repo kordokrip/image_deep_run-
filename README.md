@@ -8,6 +8,7 @@ If you are studying deep running, you will know CNN (convolutional neural networ
 
 In this project, we will look for images based on CNN rather than classification.
 
+
 materials
 
 - python (latest version)
@@ -15,6 +16,8 @@ materials
 - scikit-learn
 - numpy
 - matplotlib
+
+** I did programming in Anaconda Spyder (python 3.6).
 
 1. Prepare n input images as input
 
