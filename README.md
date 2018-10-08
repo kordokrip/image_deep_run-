@@ -1,6 +1,13 @@
 # image_deep_run-
 inception-v3 used deep-run image analysis
 
+
+Conventional image retrieval is based on CBIR (content based image retrieval) based image retrieval. There is a lucene-based LIRE (Lucene Image REtrieval) as an open source, and it is also a plug-in version of it in elasticsearch.
+
+If you are studying deep running, you will know CNN (convolutional neural network). It is the most widely used algorithm for machine learning related to image, and it is an algorithm that shows excellent performance especially in image classification. Typically, Google's inception (googlenet), ms resNet, mobilenet, VGG.
+
+In this project, we will look for images based on CNN rather than classification.
+
 materials
 
 - python (latest version)
