@@ -30,3 +30,5 @@ materials
 4. Change sum of m classes to 1 bysoftmax
 
 5. Find the class with the highest number of armax
+
+
